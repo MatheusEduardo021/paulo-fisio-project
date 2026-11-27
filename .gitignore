@@ -4,3 +4,8 @@ out/
 .env*
 !.env.example
 next-env.d.ts
+
+# Arquivos pessoais de roteiro
+/roteiro-video-site-paulo.md
+/roteiro-video-site-paulo.txt
+/growkaz-stickman-studio
